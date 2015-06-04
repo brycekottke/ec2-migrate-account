@@ -1,0 +1,12 @@
+{
+  "instance_name": "Rancher-Slave",
+  "instance_id": "i-f7771901"
+}
+{
+  "instance_name": "Rancher-Slave",
+  "instance_id": "i-fa77190c"
+}
+{
+  "instance_name": "Rancher-Master",
+  "instance_id": "i-ac79175a"
+}
